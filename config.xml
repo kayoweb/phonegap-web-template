@@ -13,7 +13,7 @@
     <allow-navigation href="*" />
   
     <content src="index.html"/>
-    <icon src="icon.png"/>
+    <icon src="wrench.png"/>
   
     <!-- https://build.phonegap.com/current-support -->
     <preference name="phonegap-version" value="cli-6.5.0" />
